@@ -14,7 +14,8 @@ Exploring .NET frameworks (WinForms, WPF, Console Apps)
 
 
 # Technologies Used
-C#
+
+* C#
 .NET (Core / Framework / .NET 8)
 WinForms
 WPF
