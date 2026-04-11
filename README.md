@@ -10,14 +10,14 @@ This repository is focused on:
 * Learning C# fundamentals
 * Building real-world applications
 * Practicing problem-solving
-Exploring .NET frameworks (WinForms, WPF, Console Apps)
+* Exploring .NET frameworks (WinForms, WPF, Console Apps)
 
 
 # Technologies Used
 
 * C#
-.NET (Core / Framework / .NET 8)
-WinForms
+* .NET (Core / Framework / .NET 8)
+* WinForms
 WPF
 Console Applications
 SQLite / MySQL (for database projects)
