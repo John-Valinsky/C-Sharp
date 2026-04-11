@@ -14,6 +14,9 @@ class Program
         names.Add("Charlie");
 
         foreach (string name in names)
-
+        {
+            Console.WriteLine(name);
+    
+        }
     }
 }
