@@ -7,9 +7,9 @@ Welcome to my C# repository! This repo contains my journey of learning and build
 
 This repository is focused on:
 
-Learning C# fundamentals
-Building real-world applications
-Practicing problem-solving
+* Learning C# fundamentals
+* Building real-world applications
+* Practicing problem-solving
 Exploring .NET frameworks (WinForms, WPF, Console Apps)
 
 
