@@ -18,6 +18,6 @@ This repository is focused on:
 * C#
 * .NET (Core / Framework / .NET 8)
 * WinForms
-WPF
-Console Applications
-SQLite / MySQL (for database projects)
+* WPF
+* Console Applications
+* SQLite / MySQL (for database projects)
