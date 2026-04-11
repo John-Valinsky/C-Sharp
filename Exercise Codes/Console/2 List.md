@@ -10,6 +10,7 @@ class Program
         List<string> names = new List<string>();
 
         names.Add("Alice");
+        names.Add("Bob");
 
     }
 }
