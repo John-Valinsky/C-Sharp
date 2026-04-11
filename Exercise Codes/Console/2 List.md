@@ -15,8 +15,7 @@ class Program
 
         foreach (string name in names)
         {
-            Console.WriteLine(name);
-    
+            Console.WriteLine(name);    
         }
     }
 }
