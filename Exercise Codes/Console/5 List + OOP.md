@@ -34,7 +34,9 @@ class Program
                         Title = Console.ReadLine(),
                         IsCompleted = false
                     });
+                    break;
 
+                case "2":
 
                     }
             }
