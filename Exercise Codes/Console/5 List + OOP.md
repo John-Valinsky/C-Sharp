@@ -54,6 +54,7 @@ class Program
 
                 case "3":
                     Console.WriteLine("\nTasks:");
+                    for (int i = 0; i < tasks.Count; i++)
 
             }
         }
