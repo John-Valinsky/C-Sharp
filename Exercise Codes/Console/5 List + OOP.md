@@ -62,6 +62,8 @@ class Program
                     break;
 
                 case "4":
+                    running = false;
+                    break;
 
             }
         }
