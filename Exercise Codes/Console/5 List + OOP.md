@@ -26,7 +26,9 @@ class Program
             string choice = Console.ReadLine();
 
             switch (choice)
-
+            {
+                
+            }
         }
     }
 }
