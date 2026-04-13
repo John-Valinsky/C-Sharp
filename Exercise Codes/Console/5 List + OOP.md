@@ -42,6 +42,7 @@ class Program
                     for (int i = 0; i < tasks.Count; i++)
                         Console.WriteLine($"{i + 1}. {tasks[i].Title}");
                     }
+                    
                     int index = int.Parse(Console.ReadLine()) - 1;
                     if (index >= 0 && index < tasks.Count)
                     {
