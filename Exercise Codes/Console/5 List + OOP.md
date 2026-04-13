@@ -50,6 +50,7 @@ class Program
                     {
                         Console.WriteLine("Invalid task number");                     
                     }
+                    break;
             }
         }
     }
