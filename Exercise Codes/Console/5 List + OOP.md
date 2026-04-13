@@ -30,7 +30,10 @@ class Program
                 case "1":
                     Console.Write("Enter task: ");
                     tasks.Add(new TaskItem
-
+                    {
+                        Title = Console.ReadLine(),
+      
+                    }
             }
         }
     }
