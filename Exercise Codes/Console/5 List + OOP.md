@@ -33,6 +33,7 @@ class Program
                     {
                         Title = Console.ReadLine(),
                         IsCompleted = false
+                    });
 
 
                     }
