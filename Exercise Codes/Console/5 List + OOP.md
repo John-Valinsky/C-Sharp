@@ -16,6 +16,9 @@ class Program
         bool running = true;
 
         while (running)
-
+        {
+            Console.WriteLine("\n1. Add Task");
+   
+        }
     }
 }
