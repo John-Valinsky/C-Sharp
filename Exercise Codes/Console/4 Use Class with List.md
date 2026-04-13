@@ -12,5 +12,8 @@ class TaskItem
 class Program
 {
     static void Main(string[] args)
+    {
+        List<TaskItem> tasks = new List<TaskItem>();
 
+    }
 }
