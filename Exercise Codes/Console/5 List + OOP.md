@@ -47,6 +47,9 @@ class Program
                         tasks[index].IsCompleted = true;
                     }
                     else
+                    {
+                        Console.WriteLine("Invalid task number");                     
+                    }
             }
         }
     }
