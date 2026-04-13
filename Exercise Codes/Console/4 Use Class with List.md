@@ -18,6 +18,9 @@ class Program
         tasks.Add(new TaskItem { Title = "Learn C#", IsCompleted = false });
         tasks.Add(new TaskItem { Title = "Practice Coding", IsCompleted = true });
 
-
+        foreach (var task in tasks)
+        {
+            
+        }
     }
 }
