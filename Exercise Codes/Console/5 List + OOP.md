@@ -37,6 +37,7 @@ class Program
                     break;
 
                 case "2":
+                    Console.WriteLine("Enter task number:");
 
                     }
             }
