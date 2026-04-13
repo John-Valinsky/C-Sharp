@@ -65,6 +65,8 @@ class Program
                     running = false;
                     break;
 
+                default:
+
             }
         }
     }
