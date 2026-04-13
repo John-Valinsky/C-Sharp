@@ -23,6 +23,8 @@ class Program
             Console.WriteLine("4. Exit");
             Console.Write("Choose: ");
 
+            string choice = Console.ReadLine();
+
         }
     }
 }
