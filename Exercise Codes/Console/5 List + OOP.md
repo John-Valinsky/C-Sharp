@@ -51,7 +51,9 @@ class Program
                         Console.WriteLine("Invalid task number");                     
                     }
                     break;
+
                 case "3":
+                    Console.WriteLine("\nTasks:");
 
             }
         }
