@@ -32,7 +32,9 @@ class Program
                     tasks.Add(new TaskItem
                     {
                         Title = Console.ReadLine(),
-      
+                        IsCompleted = false
+
+
                     }
             }
         }
