@@ -38,6 +38,8 @@ class Program
 
                 case "2":
                     Console.WriteLine("Enter task number:");
+                    for (int i = 0; i < tasks.Count; i++)
+                        Console.WriteLine($"{i + 1}. {tasks[i].Title}");
 
                     }
             }
