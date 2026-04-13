@@ -58,8 +58,9 @@ class Program
                     {
                         var task = tasks[i];
                         Console.WriteLine($"{i + 1}. {task.Title} - {(task.IsCompleted ? "Done" : "Pending")}");
-         
                     }
+                    break;
+
             }
         }
     }
