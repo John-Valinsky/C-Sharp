@@ -43,7 +43,10 @@ class Program
                     }
                     int index = int.Parse(Console.ReadLine()) - 1;
                     if (index >= 0 && index < tasks.Count)
+                    {
+                        tasks[index].IsCompleted = true;
 
+                    }
             }
         }
     }
