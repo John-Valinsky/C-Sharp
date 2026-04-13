@@ -18,7 +18,8 @@ class Program
         while (running)
         {
             Console.WriteLine("\n1. Add Task");
-   
+            Console.WriteLine("2. Mark Task as Done");
+
         }
     }
 }
