@@ -22,8 +22,8 @@ class Program
             Console.WriteLine("2. Mark Task as Done");
             Console.WriteLine("3. Show Tasks");
             Console.WriteLine("4. Exit");
-            Console.Write("Choose: ");
 
+            Console.Write("Choose: ");
             string choice = Console.ReadLine();
 
             switch (choice)
