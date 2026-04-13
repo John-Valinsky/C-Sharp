@@ -20,7 +20,8 @@ class Program
 
         foreach (var task in tasks)
         {
-            
+            Console.WriteLine($"{task.Title} - {(task.IsCompleted ? "Done" : "Pending")}");
+          
         }
     }
 }
