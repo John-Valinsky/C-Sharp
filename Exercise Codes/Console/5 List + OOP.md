@@ -7,7 +7,7 @@ class TaskItem
 {
     public string Title { get; set; }
     public bool IsCompleted { get; set; }
-}
+
 class Program
 {
     static void Main(string[] args)
@@ -68,7 +68,6 @@ class Program
                 default:
                     Console.WriteLine("Invalid option");
                     break;
-
             }
         }
     }
