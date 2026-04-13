@@ -1,6 +1,7 @@
 # List + OOP
 ============
 using System;
+using System.Collections.Generic;
 
 class TaskItem
 {
@@ -9,5 +10,6 @@ class TaskItem
 }
 class Program
 {
+    static void Main(string[] args)
 
 }
