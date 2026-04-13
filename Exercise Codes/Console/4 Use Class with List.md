@@ -16,6 +16,8 @@ class Program
         List<TaskItem> tasks = new List<TaskItem>();
 
         tasks.Add(new TaskItem { Title = "Learn C#", IsCompleted = false });
+        tasks.Add(new TaskItem { Title = "Practice Coding", IsCompleted = true });
+
 
     }
 }
