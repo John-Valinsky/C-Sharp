@@ -66,6 +66,8 @@ class Program
                     break;
 
                 default:
+                    Console.WriteLine("Invalid option");
+                    break;
 
             }
         }
