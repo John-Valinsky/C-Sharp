@@ -80,6 +80,8 @@ class Program
             lines.Add($"{task.Title} | {task.IsCompleted}");
         }
 
-        File.WriteAllLines(filePath, lines)
+        File.WriteAllLines(filePath, lines);
     }
+
+    static 
 }
