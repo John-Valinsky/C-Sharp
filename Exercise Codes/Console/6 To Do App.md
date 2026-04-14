@@ -77,7 +77,7 @@ class Program
 
         foreach (var task in tasks)
         {
-            lines.Add($"{task.Title} | ")
+            lines.Add($"{task.Title} | {task.IsCompleted}")
         }
     }
 }
