@@ -102,5 +102,6 @@ class Program
                 });
             }
         }
+        return tasks;
     }
 }
