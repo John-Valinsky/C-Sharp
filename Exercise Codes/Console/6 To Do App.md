@@ -56,7 +56,8 @@ class Program
                     break;
 
                 case "3":
-                    Console.WriteLine("\nTasks: ")
+                    Console.WriteLine("\nTasks: ");
+                    for (int i = 0, )
                     
             }
         }
