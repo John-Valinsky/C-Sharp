@@ -48,7 +48,7 @@ class Program
                     if (int.TryParse(Console.ReadLine(), out int index))
                     {
                         index -=1;
-                        
+                        if (index >= 0 )
                     }
                     
             }
