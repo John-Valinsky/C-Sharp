@@ -32,7 +32,12 @@ class Program
             switch (choice)
             {
                 case "1":
-                    Console.Write("Enter task: ")
+                    Console.Write("Enter task: ");
+                    tasks.Add(new TaskItem
+                    {
+
+                    });
+                    
             }
         }
     }
