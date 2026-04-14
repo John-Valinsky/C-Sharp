@@ -30,6 +30,9 @@ class Program
             string choice = Console.ReadLine();
 
             switch (choice)
+            {
+                case "1"
+            }
         }
     }
 }
