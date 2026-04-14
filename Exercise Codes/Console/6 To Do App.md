@@ -54,6 +54,8 @@ class Program
                         }
                     }
                     break;
+
+                case "3":
                     
             }
         }
