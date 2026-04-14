@@ -65,7 +65,8 @@ class Program
                     break;
 
                 case "4":
-                
+                    SaveTasks(tasks);
+                    
                     
             }
         }
