@@ -66,7 +66,7 @@ class Program
 
                 case "4":
                     SaveTasks(tasks);
-                    
+                    running = false;
                     
             }
         }
