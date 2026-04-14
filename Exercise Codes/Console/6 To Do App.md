@@ -17,5 +17,6 @@ class Program
     static void Main(string[] args)
     {
         List<TaskItem> tasks = LoadTasks();
+        bool running = true; 
     }
 }
