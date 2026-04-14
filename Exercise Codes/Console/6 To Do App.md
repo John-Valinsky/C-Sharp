@@ -18,5 +18,10 @@ class Program
     {
         List<TaskItem> tasks = LoadTasks();
         bool running = true; 
+
+        while (running)
+        {
+            
+        }
     }
 }
