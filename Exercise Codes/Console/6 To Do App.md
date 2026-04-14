@@ -46,6 +46,10 @@ class Program
                         Console.WriteLine($"{i + 1}. {tasks[i].Title}");
                     }
                     if (int.TryParse(Console.ReadLine(), out int index))
+                    {
+                        index -=1;
+                        
+                    }
                     
             }
         }
