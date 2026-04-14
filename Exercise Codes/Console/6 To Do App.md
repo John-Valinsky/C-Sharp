@@ -35,7 +35,7 @@ class Program
                     Console.Write("Enter task: ");
                     tasks.Add(new TaskItem
                     {
-
+                        Title = Console.ReadLine(),
                     });
                     
             }
