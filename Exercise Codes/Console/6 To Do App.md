@@ -42,6 +42,9 @@ class Program
 
                 case "2":
                     for (int i = 0, i < task.Count; i++)
+                    {
+                        Console.WriteLine($"{i + 1}. {tasks[i].Title}");
+                    }
                     
             }
         }
