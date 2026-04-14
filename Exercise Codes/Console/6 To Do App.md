@@ -86,6 +86,7 @@ class Program
     static List<TaskItem> LoadTasks()
     {
         List<TaskItem> tasks = new List<TaskItem>();
-        
+
+        if (File.Exists(filePath))
     }
 }
