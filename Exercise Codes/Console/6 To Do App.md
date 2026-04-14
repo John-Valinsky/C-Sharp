@@ -15,4 +15,7 @@ class Program
     static string filePath = "tasks.txt";
 
     static void Main(string[] args)
+    {
+        List<TaskItem> tasks = LoadTasks();
+    }
 }
