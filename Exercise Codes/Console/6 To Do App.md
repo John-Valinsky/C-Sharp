@@ -77,7 +77,7 @@ class Program
 
         foreach (var task in tasks)
         {
-            lines.Add($"{}")
+            lines.Add($"{task.Title} | ")
         }
     }
 }
