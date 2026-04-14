@@ -60,6 +60,7 @@ class Program
                     for (int i = 0, i < tasks.Count; i++)
                     {
                         var task = tasks[i];
+                        Console.WriteLine()
                     }
                     
             }
