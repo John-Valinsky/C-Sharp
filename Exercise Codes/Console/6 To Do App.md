@@ -21,7 +21,7 @@ class Program
 
         while (running)
         {
-            
+            Console.WriteLine("\n1. Add Task");
         }
     }
 }
