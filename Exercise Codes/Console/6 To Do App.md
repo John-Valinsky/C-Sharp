@@ -75,6 +75,9 @@ class Program
     {
         List<string> lines = new List<string>();
 
-        foreach (var task in task)
+        foreach (var task in tasks)
+        {
+            lines.Add($"{}")
+        }
     }
 }
