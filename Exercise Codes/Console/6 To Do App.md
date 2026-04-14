@@ -41,7 +41,7 @@ class Program
                     break;
 
                 case "2":
-                
+                    for (int i = 0, i < task.Count; i++)
                     
             }
         }
