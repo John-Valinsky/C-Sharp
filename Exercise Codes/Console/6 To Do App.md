@@ -92,6 +92,9 @@ class Program
             string [] lines = File.ReadAllLines(filePath);
 
             foreach (var line in lines)
+            {
+                string [] 
+            }
         }
     }
 }
