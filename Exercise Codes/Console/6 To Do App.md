@@ -77,7 +77,9 @@ class Program
 
         foreach (var task in tasks)
         {
-            lines.Add($"{task.Title} | {task.IsCompleted}")
+            lines.Add($"{task.Title} | {task.IsCompleted}");
         }
+
+        File.WriteAllLines
     }
 }
