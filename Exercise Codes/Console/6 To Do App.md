@@ -88,5 +88,9 @@ class Program
         List<TaskItem> tasks = new List<TaskItem>();
 
         if (File.Exists(filePath))
+        {
+            string [] lines = File.ReadAllLines(filePath);
+            
+        }
     }
 }
