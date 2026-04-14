@@ -53,6 +53,7 @@ class Program
                             tasks[index].IsCompleted = true;
                         }
                     }
+                    break;
                     
             }
         }
