@@ -5,3 +5,6 @@ using System.Collections.Generic;
 using System.IO;
 
 class TaskItem
+{
+    public string Title []
+}
