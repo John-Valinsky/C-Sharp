@@ -83,5 +83,8 @@ class Program
         File.WriteAllLines(filePath, lines);
     }
 
-    static List<TaskItem>
+    static List<TaskItem> LoadTasks()
+    {
+        
+    }
 }
