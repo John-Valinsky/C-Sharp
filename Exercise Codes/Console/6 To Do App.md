@@ -49,6 +49,9 @@ class Program
                     {
                         index -=1;
                         if (index >= 0 && index < tasks.Count)
+                        {
+                            tasks[index].IsCompleted = true;
+                        }
                     }
                     
             }
