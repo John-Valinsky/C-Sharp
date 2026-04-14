@@ -26,7 +26,8 @@ class Program
             Console.WriteLine("\n3. Show Tasks ");
             Console.WriteLine("\n4. Exit");
 
-            Console.Write("Choose: ")
+            Console.Write("Choose: ");
+            string choice = Console.ReadLine();
         }
     }
 }
