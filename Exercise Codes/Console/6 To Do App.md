@@ -97,7 +97,7 @@ class Program
 
                 tasks.Add(new TaskItem
                 {
-                    
+                    Title = parts[0];
                     })
             }
         }
