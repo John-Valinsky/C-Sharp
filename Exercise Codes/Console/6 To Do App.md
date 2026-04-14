@@ -90,7 +90,8 @@ class Program
         if (File.Exists(filePath))
         {
             string [] lines = File.ReadAllLines(filePath);
-            
+
+            foreach (var line in lines)
         }
     }
 }
