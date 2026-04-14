@@ -31,7 +31,8 @@ class Program
 
             switch (choice)
             {
-                case "1"
+                case "1":
+                    Console.Write("Enter task: ")
             }
         }
     }
