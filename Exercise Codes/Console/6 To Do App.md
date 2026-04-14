@@ -93,7 +93,12 @@ class Program
 
             foreach (var line in lines)
             {
-                string [] parts = line.Split('|')
+                string [] parts = line.Split('|');
+
+                tasks.Add(new TaskItem
+                {
+                    
+                    })
             }
         }
     }
