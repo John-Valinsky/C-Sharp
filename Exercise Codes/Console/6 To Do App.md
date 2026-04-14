@@ -23,7 +23,8 @@ class Program
         {
             Console.WriteLine("\n1. Add Task");
             Console.WriteLine("\n2. Mark Task as Done");
-            Console.WriteLine("\n3. ")
+            Console.WriteLine("\n3. Show Tasks ");
+            Console.WriteLine("\n4. Exit")
         }
     }
 }
