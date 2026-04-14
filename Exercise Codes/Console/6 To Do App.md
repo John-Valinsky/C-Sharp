@@ -6,5 +6,5 @@ using System.IO;
 
 class TaskItem
 {
-    public string Title []
+    public string Title { get; set; }
 }
