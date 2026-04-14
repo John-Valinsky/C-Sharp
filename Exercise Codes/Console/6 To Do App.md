@@ -93,7 +93,7 @@ class Program
 
             foreach (var line in lines)
             {
-                string [] 
+                string [] parts = line.Split('|')
             }
         }
     }
