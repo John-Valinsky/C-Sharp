@@ -30,7 +30,8 @@ class Program
     {
         if (numbers[i] %2 != 0)
         {
-            Console.Write(numbers[i] + " ")''
+            Console.Write(numbers[i] + " ");
         }
     }
+    Console.ReadLine();
 }
