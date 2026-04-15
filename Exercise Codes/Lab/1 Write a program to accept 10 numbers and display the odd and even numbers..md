@@ -8,6 +8,7 @@ class Program
     {
         int[] numbers = new int[10];
 
-        Console.WriteLine("Enter 10 numbers: ")   
+        Console.WriteLine("Enter 10 numbers: ");
+        
     }
 }
