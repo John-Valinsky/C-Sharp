@@ -8,31 +8,35 @@ class Program
     {
         int[] numbers = new int[10];
 
-        Console.WriteLine("Enter 10 numbers: ");
+        Console.WriteLine("Enter 10 numbers:");
 
+        // Input 10 numbers
         for (int i = 0; i < 10; i++)
         {
             Console.Write($"Number {i + 1}: ");
             numbers[i] = Convert.ToInt32(Console.ReadLine());
         }
 
-        Console.WriteLine("\nEven Number:");
-
+        Console.WriteLine("\nEven Numbers:");
+        // Display even numbers
         for (int i = 0; i < 10; i++)
         {
-            Console.Write(numbers[i] + " ");
+            if (numbers[i] % 2 == 0)
+            {
+                Console.Write(numbers[i] + " ");
+            }
         }
-    }
 
-    Console.WriteLine("\n\nOdd Numbers:");
-
-    for(int i = 0; i < 10; i++)
-    {
-        if (numbers[i] %2 != 0)
+        Console.WriteLine("\n\nOdd Numbers:");
+        // Display odd numbers
+        for (int i = 0; i < 10; i++)
         {
-            Console.Write(numbers[i] + " ");
+            if (numbers[i] % 2 != 0)
+            {
+                Console.Write(numbers[i] + " ");
+            }
         }
+
+        Console.ReadLine();
     }
-    Console.ReadLine();
-}
 }
