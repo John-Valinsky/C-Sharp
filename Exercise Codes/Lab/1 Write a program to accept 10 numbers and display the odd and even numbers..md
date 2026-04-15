@@ -13,7 +13,7 @@ class Program
         for (int i = 0; i < 10; i++)
         {
             Console.Write($"Number {i + 1}: ");
-            numbers[i] 
+            numbers[i] = Convert.ToInt32
         }
     }
 }
