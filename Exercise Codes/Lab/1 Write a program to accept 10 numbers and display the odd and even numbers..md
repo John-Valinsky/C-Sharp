@@ -25,4 +25,6 @@ class Program
     }
 
     Console.WriteLine("\n\nOdd Numbers:");
+
+    for(int i; )
 }
