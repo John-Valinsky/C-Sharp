@@ -23,4 +23,6 @@ class Program
             Console.Write(numbers[i] + " ");
         }
     }
+
+    Console.WriteLine("\n\nOdd Numbers:");
 }
