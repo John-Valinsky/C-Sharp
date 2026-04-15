@@ -15,5 +15,7 @@ class Program
             Console.Write($"Number {i + 1}: ");
             numbers[i] = Convert.ToInt32(Console.ReadLine());
         }
+
+        Console.WriteLine("\n")
     }
 }
