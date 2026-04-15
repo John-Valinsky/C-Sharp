@@ -9,6 +9,7 @@ class Program
         int[] numbers = new int[10];
 
         Console.WriteLine("Enter 10 numbers: ");
-        
+
+        for (int i = 0; i < 10; )
     }
 }
