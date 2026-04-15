@@ -26,5 +26,11 @@ class Program
 
     Console.WriteLine("\n\nOdd Numbers:");
 
-    for(int i = 0; i < 10; )
+    for(int i = 0; i < 10; i++)
+    {
+        if (numbers[i] %2 != 0)
+        {
+            
+        }
+    }
 }
