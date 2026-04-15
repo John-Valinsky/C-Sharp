@@ -26,5 +26,5 @@ class Program
 
     Console.WriteLine("\n\nOdd Numbers:");
 
-    for(int i; )
+    for(int i = 0; i < 10; )
 }
